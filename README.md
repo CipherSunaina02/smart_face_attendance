@@ -51,13 +51,11 @@ Open in browser → `http://127.0.0.1:5000`
 
 
  🗂 Project Structure
-
-```
 SMART_FACE_ATTENDANCE/
 ├── app/
 │   ├── routes/
-     -- services/
-     --models/
+│   ├── services/
+│   ├── models/
 │   ├── templates/
 │   └── static/
 ├── dataset/
@@ -65,7 +63,7 @@ SMART_FACE_ATTENDANCE/
 ├── requirements.txt
 ├── run.py
 └── database.db
-```
+
 
 
 
