@@ -56,6 +56,8 @@ Open in browser → `http://127.0.0.1:5000`
 SMART_FACE_ATTENDANCE/
 ├── app/
 │   ├── routes/
+     -- services/
+     --models/
 │   ├── templates/
 │   └── static/
 ├── dataset/
